@@ -1,0 +1,14 @@
+-
+icon:
+M0
+nick:
+-
+gold:
+0
+day:
+0
+boosters:
+none
+none
+daystate:
+none

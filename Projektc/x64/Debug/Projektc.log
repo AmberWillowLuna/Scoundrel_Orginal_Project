@@ -1,0 +1,3 @@
+﻿  Dungeon.cpp
+C:\Users\adamf\source\repos\AmberWillowLuna\Scoundrel_Orginal_Project\Projektc\Dungeon.cpp(92,34): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+  Projektc.vcxproj -> C:\Users\adamf\source\repos\AmberWillowLuna\Scoundrel_Orginal_Project\x64\Debug\Projektc.exe

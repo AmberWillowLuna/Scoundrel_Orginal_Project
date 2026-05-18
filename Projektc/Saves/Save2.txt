@@ -1,0 +1,13 @@
+icon:
+W0
+nick:
+raddit
+gold:
+0
+day:
+0
+boosters:
+none
+none
+daystate:
+none

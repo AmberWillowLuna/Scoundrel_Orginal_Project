@@ -1,0 +1,11 @@
+CardMotive:
+classic
+Resolution:
+1920
+1080
+Fullscreen:
+windowed
+Username:
+Player
+TimeLimit:
+0

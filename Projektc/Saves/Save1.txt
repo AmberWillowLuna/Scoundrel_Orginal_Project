@@ -1,0 +1,13 @@
+icon:
+W3
+nick:
+-
+gold:
+37
+day:
+3
+boosters:
+none
+none
+daystate:
+none
